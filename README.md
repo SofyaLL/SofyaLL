@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Sofya 👋
 
 <!--
 **SofyaLL/SofyaLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m a Computer Vision Engineer
+- 📫 How to reach me: loskutovasofya@gmail.com
+- 📝 My [resume](https://drive.google.com/file/d/1C_nHj2f6S7dgeHAu_BccwoJaAnYEndZ2/view?usp=sharing)
+- ⚡ Fun fact: I have a Master's degree in computational chemistry (Bac+5)
+
+ <img src="https://media.giphy.com/media/3BBv1D4AFbJkY/giphy.gif" width="60">
